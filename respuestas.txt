@@ -1,0 +1,6 @@
+3 - cat Alumnos.txt | grep -SI | awk " {print $1} "
+4 - mkdir si
+5 - mv si.txt > si
+7 - grep -ic 'Gonzalez' alumnos.txt ls
+8 - sed -i 's/Vicente/Pepe/g' alumnos.txt
+10 - touch tJ / ls /dev/t*[J]
